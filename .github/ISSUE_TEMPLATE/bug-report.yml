@@ -29,7 +29,7 @@ body:
     id: crash-report
     attributes:
       label: Crash Report
-      description: If you crashed, upload your crash report to [https://gist.github.com](https://gist.github.com/) and paste a link to it here. 
+      description: If you crashed, upload your crash report to [https://mclo.gs/](https://mclo.gs//) and paste a link to it here. 
     validations:
       required: false
 
@@ -37,7 +37,7 @@ body:
     id: latest-log
     attributes:
       label: Latest Log
-      description: Upload your latest.log to [https://gist.github.com](https://gist.github.com/) and paste a link to it here. We often ask for this, so adding it upfront can save some time.
+      description: Upload your latest.log to [https://mclo.gs/](https://mclo.gs//) and paste a link to it here. We often ask for this, so adding it upfront can save some time.
     validations:
       required: false
             
@@ -75,7 +75,7 @@ body:
     id: discord-username
     attributes:
       label: Discord Username
-      description: If you are in the [Enigmatica Discord](https://discord.com/invite/enigmatica) and wouldn't mind being asked further questions there, leave your username here.
+      description: If you are in the [Junkie Monkey Discord](https://discord.gg/7jBSfARh5f) and wouldn't mind being asked further questions there, leave your username here.
       placeholder: username#0000
     validations:
       required: false
